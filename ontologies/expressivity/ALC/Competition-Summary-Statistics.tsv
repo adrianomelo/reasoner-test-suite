@@ -1,0 +1,12 @@
+Type	Value
+Correctly-Processed-Count	1543
+Correctly-Processed-Accumulated-Time	710084
+Correctly-Processed-Average-Time	460.1970187945561
+Total-Processed-Count	1557
+Total-Execution-Accumulated-Time	3323696
+Total-Execution-Average-Time	2134.679511881824
+Timeout-Count	0
+Execution-Error-Count	0
+Reported-Error-Count	36
+Unexpected-Count	14
+Not-Processed-Count	0

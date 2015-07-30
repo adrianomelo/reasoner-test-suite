@@ -1,0 +1,4 @@
+Reasoner,Rank,Correctly-Processed-Count,Correctly-Processed-Accumulated-Time,Correctly-Processed-Average-Time,Total-Processed-Count,Total-Execution-Accumulated-Time,Total-Execution-Average-Time,Timeout-Count,Execution-Error-Count,Reported-Error-Count,Unexpected-Count,Not-Processed-Count
+Konclude,1,519,105381,203.04624277456648,519,318720,614.1040462427745,0,0,36,0,0
+TrOWL,2,519,595288,1146.990366088632,519,1613895,3109.624277456647,0,0,0,0,0
+leancor,3,505,9415,18.643564356435643,519,1391081,2680.31021194605,0,0,0,14,0
