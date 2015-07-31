@@ -1,0 +1,14 @@
+ logical_axiom_count dataproperty_count obj_property_count  indiv_count     
+ Min.   :  103.0     Min.   :   0.00    Min.   :   0.00    Min.   :    0.0  
+ 1st Qu.:  561.5     1st Qu.:  11.00    1st Qu.:  15.75    1st Qu.:   64.5  
+ Median : 2140.5     Median :  30.00    Median :  45.50    Median :  286.0  
+ Mean   : 7051.9     Mean   :  48.83    Mean   : 150.03    Mean   : 1309.3  
+ 3rd Qu.:10414.2     3rd Qu.:  55.00    3rd Qu.: 130.75    3rd Qu.: 1271.2  
+ Max.   :59252.0     Max.   :1071.00    Max.   :1241.00    Max.   :11758.0  
+   abox_size       tbox_size       rbox_size        class_count      
+ Min.   :    0   Min.   :    0   Min.   :   0.00   Min.   :    5.00  
+ 1st Qu.:  176   1st Qu.:  177   1st Qu.:   0.00   1st Qu.:   38.75  
+ Median :  995   Median :  372   Median :   8.00   Median :  100.50  
+ Mean   : 4206   Mean   : 2778   Mean   :  73.47   Mean   : 1255.57  
+ 3rd Qu.: 5367   3rd Qu.: 1536   3rd Qu.:  79.50   3rd Qu.:  490.50  
+ Max.   :54159   Max.   :28937   Max.   :1207.00   Max.   :13128.00  
