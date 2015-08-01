@@ -9,9 +9,9 @@ for (file in files)
 	data = read.csv(file, header=T)
 	axioms = as.matrix(data$logical_axiom_count)
 	hist(axioms,
-		main='Hitogram of logical axioms',
-		ylab="number of ontologies",
-		xlab='logical axioms')
+		main='Histogram of logical axioms',
+		ylab="Number of ontologies",
+		xlab='Logical axioms')
 
 	dev.off()
 
@@ -19,7 +19,8 @@ for (file in files)
 	pdf(density) 
 
 	d <- density(axioms)
-	plot(d)
+	plot(d,
+		main="Kernel density estimation of logical axioms")
 
 	dev.off()
 }
