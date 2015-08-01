@@ -1,7 +1,4 @@
 
-
-args <- commandArgs(TRUE)
-
 files = list.files('./',recursive=1,pattern='filelist.csv$')
 
 for (file in files)
