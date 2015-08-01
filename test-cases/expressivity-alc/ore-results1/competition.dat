@@ -1,0 +1,19 @@
+CompetitionName Custom consistency
+
+OutputPathName	custom-sat
+
+Reasoners	konclude-linux	trowl-linux	leancor
+
+QueryPathFilterString consistency/ore2014
+
+QuerySortingFilePathString	RELATIVETOCOMPETITIONSDIRECTORY	custom-sat.filelist
+
+StartingDateTime	2014-07-18T10:35:00.000+02:00
+
+EndingDateTime	2014-07-18T17:35:00.000+02:00
+
+AllowProcessingOnlyBetweenDateTimeInterval	TRUE
+
+ExecutionTimeout	180000
+
+ProcessingTimeout	150000
