@@ -1,6 +1,11 @@
 # reasoner-test-suite
 Set of ontologies and resources to evaluate OWL reasoners
 
+Update expressivity information:
+```bash
+awk -F "," '{print $16}' test-cases/all/filelist.csv | sort | uniq -c | sort -n -r > test-cases/all/filelist.csv.expressivity.txt
+```
+
 
 Update summary information:
 ```bash

@@ -1,0 +1,296 @@
+2613 R AL 
+2216 D S H I 
+1383 R C AL O 
+1318 E R AL 
+ 941 D S N O H I 
+ 909 AL 
+ 813 E AL 
+ 486 AL H 
+ 305 E TRAN AL 
+ 267 E AL H 
+ 258 D AL H 
+ 200 D S N H I 
+ 194 D U TRAN AL N H 
+ 181 C AL O H 
+ 172 D AL 
+ 171 D Q S O H I 
+ 129 C AL O 
+ 122 S H I 
+ 116 C AL 
+ 107 D Q S R O I 
+ 107 D Q S H I 
+ 105 S H 
+ 104 D F S O H I 
+  93 D C AL N H I 
+  91 D F AL 
+  89 D F S H I 
+  84 S 
+  84 D F C AL H I 
+  78 D C AL N O H I 
+  72 E TRAN AL H 
+  72 D Q S R I 
+  63 E R TRAN AL I 
+  60 D Q C AL O 
+  60 D E Q AL O 
+  56 F S R O I 
+  54 S N O H I 
+  53 D U AL N O I 
+  51 S R 
+  51 S N H I 
+  48 S R I 
+  48 Q S R I 
+  48 D S R N O I 
+  47 E TRAN AL H I 
+  47 E R TRAN AL 
+  42 D F C AL O H I 
+  41 D AL N H 
+  40 AL O 
+  35 TRAN AL 
+  35 D C AL 
+  33 F S R I 
+  33 D U AL N H 
+  33 D C AL N O I 
+  33 AL O H 
+  32 D C AL N I 
+  31 D U F AL H I 
+  31 D C AL N O 
+  30 D U AL N O 
+  30 D Q C AL O H I 
+  29 D S O H I 
+  29 D C AL N H 
+  28 D Q C AL H I 
+  27 D U AL N 
+  25 D U F AL 
+  24 TRAN AL H I 
+  24 D U F TRAN AL H I 
+  24 D F C AL I 
+  23 E TRAN AL I 
+  23 D U F AL I 
+  22 D U AL N I 
+  22 D S N H 
+  20 D R C AL N 
+  20 D F C AL O I 
+  20 D C AL N O H 
+  20 D C AL H 
+  19 D F C AL O 
+  18 R AL O 
+  18 F S H I 
+  18 E F TRAN AL H I 
+  18 D S N O I 
+  18 D Q C AL H 
+  18 D C AL H I 
+  17 D Q C AL 
+  17 D C AL O 
+  17 D AL O H I 
+  15 Q C AL 
+  15 D U AL N H I 
+  15 D F S R O I 
+  15 D E Q AL 
+  14 D S R N I 
+  14 D F AL H 
+  14 D E R TRAN AL N O I 
+  14 D C AL N 
+  14 C AL H 
+  13 Q S H I 
+  13 Q C AL H I 
+  13 D U TRAN AL N H I 
+  13 D U AL I 
+  13 D U AL 
+  13 D TRAN AL H I 
+  13 D AL I 
+  13 C AL N H I 
+  12 D S N I 
+  12 D Q R C AL O I 
+  12 D Q R C AL I 
+  12 D E AL O 
+  12 D E AL N O H I 
+  11 S O H I 
+  11 Q S R O I 
+  11 D F C AL 
+  11 D F AL H I 
+  11 C AL H I 
+  10 U AL 
+  10 D U TRAN AL H 
+  10 D E AL 
+  10 D AL N I 
+  10 D AL N 
+  10 AL I 
+   9 D TRAN AL N H I 
+   9 D R C AL N I 
+   9 D F S R I 
+   9 D AL N H I 
+   9 C AL N O 
+   9 C AL I 
+   8 Q C AL O H I 
+   8 F S O H I 
+   8 E F TRAN AL H 
+   8 D U F AL O 
+   8 D Q C AL I 
+   8 D F AL I 
+   8 D E TRAN AL N H I 
+   8 D C AL O H I 
+   8 D AL H I 
+   7 Q S O H I 
+   7 D U AL H 
+   7 D TRAN AL N I 
+   7 D E F AL H I 
+   7 D E AL N I 
+   6 F C AL H I 
+   6 F C AL 
+   6 E AL I 
+   6 D S R I 
+   6 D S H 
+   6 D F S I 
+   6 D E Q AL I 
+   6 D E AL N 
+   6 D C AL I 
+   5 U AL H 
+   5 S R O I 
+   5 E R AL O 
+   5 E AL O 
+   5 D U AL H I 
+   5 D F TRAN AL O H I 
+   5 D F TRAN AL H I 
+   5 D F C AL O H 
+   4 U AL O 
+   4 U AL H I 
+   4 S O I 
+   4 Q S 
+   4 F C AL I 
+   4 E F R TRAN AL I 
+   4 D U TRAN AL N 
+   4 D U F AL O H I 
+   4 D R C AL N O 
+   4 D F S R O 
+   4 D F S O I 
+   4 D F S H 
+   4 D F C AL H 
+   4 D E R TRAN AL O I 
+   4 D E F TRAN AL H I 
+   4 D C AL O I 
+   4 D C AL O H 
+   4 D AL O H 
+   4 C AL O I 
+   4 C AL N O H I 
+   4 AL H I 
+   3 U AL O H 
+   3 S O H 
+   3 Q C AL I 
+   3 Q C AL H 
+   3 F C AL O I 
+   3 E Q AL 
+   3 E AL N O 
+   3 E AL N 
+   3 D U F AL O I 
+   3 D U AL O I 
+   3 D U AL O 
+   3 D U AL N O H I 
+   3 D U AL N O H 
+   3 D TRAN AL I 
+   3 D Q S H 
+   3 D F R C AL I 
+   3 D F AL O I 
+   3 D E TRAN AL N 
+   3 D E TRAN AL H I 
+   3 D E F AL O 
+   3 D AL O 
+   3 C AL N H 
+   3 C AL N 
+   3 AL N 
+   2 U F AL O H 
+   2 U AL N I 
+   2 U AL N H 
+   2 S R O 
+   2 S O 
+   2 S N I 
+   2 R C AL O I 
+   2 Q S R 
+   2 F TRAN AL H I 
+   2 F S H 
+   2 F R C AL I 
+   2 F C AL O H I 
+   2 F AL 
+   2 E R TRAN AL O I 
+   2 E F AL H I 
+   2 E AL O H 
+   2 E AL H I 
+   2 D U TRAN AL H I 
+   2 D U F TRAN AL O I 
+   2 D U F AL H 
+   2 D TRAN AL O H I 
+   2 D TRAN AL H 
+   2 D TRAN AL 
+   2 D S R O I 
+   2 D S R N O 
+   2 D Q C AL O I 
+   2 D Q AL 
+   2 D F S 
+   2 D E TRAN AL O H I 
+   2 D E R TRAN AL I 
+   2 D E F AL H 
+   2 D E F AL 
+   2 D E AL I 
+   2 D E AL H I 
+   2 D E AL H 
+   2 C AL O H I 
+   1 constructs
+   1 U F AL I 
+   1 U AL O I 
+   1 U AL O H I 
+   1 U AL N 
+   1 TRAN AL N H I 
+   1 TRAN AL I 
+   1 TRAN AL H 
+   1 S N O I 
+   1 S I 
+   1 R TRAN AL I 
+   1 R C AL N I 
+   1 R C AL 
+   1 R AL I 
+   1 Q S H 
+   1 Q R C AL O I 
+   1 Q R C AL I 
+   1 Q R C AL 
+   1 Q C AL O I 
+   1 F TRAN AL I 
+   1 F R TRAN AL I 
+   1 F C AL O 
+   1 F C AL H 
+   1 F AL O H I 
+   1 E Q AL O 
+   1 E Q AL H 
+   1 E F AL I 
+   1 E F AL H 
+   1 D U TRAN AL N I 
+   1 D U F TRAN AL O 
+   1 D U F TRAN AL I 
+   1 D U AL O H 
+   1 D TRAN AL O H 
+   1 D S O H 
+   1 D S N O H 
+   1 D S I 
+   1 D R C AL I 
+   1 D R AL O I 
+   1 D Q R C AL 
+   1 D Q C AL O H 
+   1 D Q AL I 
+   1 D Q AL H 
+   1 D F S R 
+   1 D F R C AL O I 
+   1 D F R C AL 
+   1 D E TRAN AL N O H I 
+   1 D E TRAN AL N I 
+   1 D E TRAN AL N H 
+   1 D E TRAN AL 
+   1 D E R TRAN AL 
+   1 D E F TRAN AL O H I 
+   1 D E F R TRAN AL I 
+   1 D E F R AL I 
+   1 D E F AL I 
+   1 D E AL O H I 
+   1 D E AL N O I 
+   1 D E AL N O 
+   1 C AL N O I 
+   1 C AL N I 
+   1 AL N I 
+   1 AL N H I 
