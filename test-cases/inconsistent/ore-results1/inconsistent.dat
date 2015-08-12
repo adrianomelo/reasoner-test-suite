@@ -1,0 +1,20 @@
+
+CompetitionName	inconsistent-consistency
+
+OutputPathName	inconsistent
+
+Reasoners	chainsaw-linux	fact++-linux	hermit-linux	jfact-linux	konclude-linux	morehermit-linux	treasoner-linux	trowl-linux	leancor
+
+QueryPathFilterString	consistency/ore2014
+
+QuerySortingFilePathString	RELATIVETOCOMPETITIONSDIRECTORY	inconsistent.filelist
+
+StartingDateTime	2014-07-18T10:35:00.000+02:00
+
+EndingDateTime	2014-07-18T17:35:00.000+02:00
+
+#AllowProcessingOnlyBetweenDateTimeInterval	TRUE
+
+ExecutionTimeout	180000
+
+ProcessingTimeout	150000
