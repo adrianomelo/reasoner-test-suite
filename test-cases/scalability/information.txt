@@ -1,0 +1,32 @@
+ ./leancor classify ../../ontologies/scalability/160801.owl /tmp/out
+
+Parsing time: 31202
+Operation Time: 826
+
+real    3m8.554s
+user    3m6.549s
+sys     0m1.947s
+
+  PID BENUTZER  PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+16058 adr       20   0 2074568 1,529g   2092 R 100,0 39,6   1:46.25 swipl
+
+ 436 - 000001.owl
+243K - 002601.owl
+975K - 010201.owl
+2,2M - 022801.owl
+3,9M - 040401.owl
+6,1M - 063001.owl
+8,8M - 090601.owl
+ 13M - 123201.owl
+ 16M - 160801.owl
+ 20M - 203401.owl
+ 25M - 251001.owl
+ 30M - 303601.owl
+ 36M - 361201.owl
+ 42M - 423801.owl
+ 49M - 491401.owl
+ 56M - 564001.owl
+ 64M - 641601.owl
+ 73M - 724201.owl
+ 82M - 811801.owl
+ 92M - 904401.owl

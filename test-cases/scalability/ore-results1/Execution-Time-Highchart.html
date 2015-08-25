@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Comparison of Cumulative Execution Time</title>
+</head>
+<body>
+
+
+
+
+<!-- CHART_DATA_BEGIN -->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+<script type='text/javascript'>//<![CDATA[ 
+
+$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'container-7-1440387586329',
+				type: 'column',
+            },
+            title: {
+                text: 'Comparison of Cumulative Execution Time'
+            },
+            xAxis: {
+                categories: ['Chainsaw', 'HermiT', 'FaCT++', 'Konclude', 'leancor', 'TrOWL', 'TReasoner', 'JFact', 'MORe'],
+				labels: {
+					rotation: 50,
+					align: 'left',
+					style: {
+						font: 'normal 13px Verdana, sans-serif'
+					}
+				},
+				title: {
+					text: 'Reasoner',
+					align: 'high'
+				}
+            },
+			yAxis: {
+				min: 0,
+				title: {
+					text: 'Execution time (in milliseconds)',
+					align: 'high'
+				}
+			},
+			credits: {
+				text: 'ORE 2014',
+				href: 'http://vsl2014.at/meetings/ORE-index.html'
+			},	
+			plotOptions: {
+				series: {
+					borderColor: '#303030'            
+				}, 
+				spline: {
+                    lineWidth: 6
+                }
+			},			
+
+ 
+            series: [{ name: 'Total execution time', data: [1180296, 1126960, 1191255, 1251749, 2643364, 2778032, 2782654, 3829815, 16341], dataLabels: {enabled: true, color: '#000', align: 'center', y: 25, style: {fontSize: '15px'} } }]
+        });
+
+    });
+    
+});
+//]]>  
+
+</script>
+
+<div id="container-7-1440387586329" style="width: 100%; height: 500px; margin: 0 auto"></div>
+
+<!-- CHART_DATA_END -->
+
+
+
+</body>
+</html>
